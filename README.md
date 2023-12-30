@@ -38,12 +38,10 @@ apps
   |   ├─ Expo SDK 49
   |   ├─ React Native using React 18
   |   ├─ Navigation using Expo Router
-  |   ├─ Tailwind using Nativewind
   |   └─ Typesafe API calls using tRPC
   └─ next.js
       ├─ Next.js 14
       ├─ React 18
-      ├─ Tailwind CSS
       └─ E2E Typesafe API Server & Client
 packages
   ├─ api
@@ -57,8 +55,6 @@ tooling
   |   └─ shared, fine-grained, eslint presets
   ├─ prettier
   |   └─ shared prettier configuration
-  ├─ tailwind
-  |   └─ shared tailwind configuration
   └─ typescript
       └─ shared tsconfig you can extend from
 ```
