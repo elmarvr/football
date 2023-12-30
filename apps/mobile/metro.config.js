@@ -21,5 +21,4 @@ if (config.resolver) {
   config.resolver.disableHierarchicalLookup = true;
 }
 
-
-module.exports = config
+module.exports = config;

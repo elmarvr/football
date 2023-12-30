@@ -1,1 +1,2 @@
-export const name = "ui";
+export * from "./core/button";
+export * from "./theme";

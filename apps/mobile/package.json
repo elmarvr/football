@@ -15,6 +15,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@acme/ui": "workspace:^",
     "@expo/metro-config": "^0.10.7",
     "@shopify/flash-list": "1.4.3",
     "expo": "^49.0.21",
